@@ -52,4 +52,5 @@
 
 </body>
 </html>
-<a href="SGPA to percentage calculator" target="_blank">SGPA to Percentage Calculator</a>
+<a href="SGPA to percentage calculator" target="_blank">SGPA to Percentage Calculator
+</a>
